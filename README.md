@@ -15,8 +15,16 @@ A brief description of what your project does and its purpose. Include informati
 ## Installation
 
 ### Prerequisites
-
-- List of prerequisites or system requirements (e.g., Python version, libraries).
+- altair==5.3.0
+- imbalanced_learn==0.12.3
+- matplotlib==3.9.1
+- numpy==2.0.1
+- pandas==2.2.2
+- Pillow==10.4.0
+- Requests==2.32.3
+- scikit_learn==1.5.1
+- seaborn==0.13.2
+streamlit==1.36.0
 
 ### Steps
 
