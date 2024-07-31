@@ -14,7 +14,7 @@ A brief description of what your project does and its purpose. Include informati
 
 ## Installation
 
-### Prerequisites
+### Prerequisites: (What i have had when i made my system)
 - altair==5.3.0
 - imbalanced_learn==0.12.3
 - matplotlib==3.9.1
