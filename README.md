@@ -24,7 +24,7 @@ A brief description of what your project does and its purpose. Include informati
 - Requests==2.32.3
 - scikit_learn==1.5.1
 - seaborn==0.13.2
-streamlit==1.36.0
+- **streamlit==1.36.0**
 
 ### Steps
 
